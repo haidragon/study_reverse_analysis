@@ -8,4 +8,4 @@
 下载[越狱包](https://www.abcydia.com/read-16031.html)
 
  安装邮箱插件，如果mac登录邮箱时，无法验证服务器时把dns修改成114.114.114.114，开了双重验证也直接登录正常账号密码就行了。
- ![](https://github.com/haidragon/study_reverse_analysis/blob/master/study_reverse_analysis/study_reverse_analysis/ios/pages1/images/1.jpg)
+ ![](./images/1.jpg)
