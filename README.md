@@ -11,11 +11,11 @@
 * 第四课 砸壳
 * 第五课 重签名
 * 第六课 免越狱调试修改第三方App
-* 第七课 frida
-* 第八课 theos
+* 第七课 [frida](https://github.com/haidragon/study_frida)
+* 第八课 [theos](https://github.com/haidragon/study_tweak)
 * 第九课 cycript
-* 第十课 LLDB调试 
-* 第十一课 其它辅助工具 
+* 第十课 [LLDB调试](https://github.com/haidragon/study_tools) 
+* 第十一课 [其它辅助工具](https://github.com/haidragon/study_tools)
 ### theos
 #### theos
 ##### theos
