@@ -1,7 +1,7 @@
 # study_reverse_analysis
 逆向分析杂项
 ## android
-* root教程
+* [root教程](https://github.com/haidragon/study_Android_Mchange)
 * app重签名
 * 工具使用
 ## ios
