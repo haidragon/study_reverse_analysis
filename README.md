@@ -16,9 +16,5 @@
 * 第九课 cycript
 * 第十课 [LLDB调试](https://github.com/haidragon/study_tools) 
 * 第十一课 [其它辅助工具](https://github.com/haidragon/study_tools)
-### theos
-#### theos
-##### theos
-###### theos
 ## windows
 ## linux
