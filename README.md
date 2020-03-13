@@ -16,5 +16,9 @@
 * 第九课 cycript
 * 第十课 [LLDB调试](https://github.com/haidragon/study_tools) 
 * 第十一课 [其它辅助工具](https://github.com/haidragon/study_tools)
+* 第十二课 bypass antidbg
+* 第十三课 bypass 越狱检测
+* 第十四课 bypass 证书双向验证
+* 第十五课 bypass ssl/tls
 ## windows
 ## linux
